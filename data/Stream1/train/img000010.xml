@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>img000010.jpg</filename>
+	<path>img000010.jpg</path>
+	<source>
+		<database>Spark.Stream1</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>proba_2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<ymin>117</ymin>
+			<xmin>18</xmin>
+			<ymax>901</ymax>
+			<xmax>786</xmax>
+		</bndbox>
+	</object>
+</annotation>

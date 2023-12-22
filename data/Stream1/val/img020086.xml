@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>img020086.jpg</filename>
+	<path>img020086.jpg</path>
+	<source>
+		<database>Spark.Stream1</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>debris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<ymin>401</ymin>
+			<xmin>686</xmin>
+			<ymax>583</ymax>
+			<xmax>844</xmax>
+		</bndbox>
+	</object>
+</annotation>

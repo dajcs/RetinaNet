@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>img030007.jpg</filename>
+	<path>img030007.jpg</path>
+	<source>
+		<database>Spark.Stream1</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>double_star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<ymin>376</ymin>
+			<xmin>274</xmin>
+			<ymax>719</ymax>
+			<xmax>886</xmax>
+		</bndbox>
+	</object>
+</annotation>

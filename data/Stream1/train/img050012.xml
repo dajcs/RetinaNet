@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>img050012.jpg</filename>
+	<path>img050012.jpg</path>
+	<source>
+		<database>Spark.Stream1</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lisa_pathfinder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<ymin>311</ymin>
+			<xmin>329</xmin>
+			<ymax>516</ymax>
+			<xmax>594</xmax>
+		</bndbox>
+	</object>
+</annotation>

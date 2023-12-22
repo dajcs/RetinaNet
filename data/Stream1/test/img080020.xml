@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>img080020.jpg</filename>
+	<path>img080020.jpg</path>
+	<source>
+		<database>Spark.Stream1</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smart_1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<ymin>505</ymin>
+			<xmin>172</xmin>
+			<ymax>835</ymax>
+			<xmax>484</xmax>
+		</bndbox>
+	</object>
+</annotation>

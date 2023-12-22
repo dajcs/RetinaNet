@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>img100036.jpg</filename>
+	<path>img100036.jpg</path>
+	<source>
+		<database>Spark.Stream1</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>xmm_newton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<ymin>325</ymin>
+			<xmin>99</xmin>
+			<ymax>631</ymax>
+			<xmax>754</xmax>
+		</bndbox>
+	</object>
+</annotation>

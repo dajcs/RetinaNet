@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>img010051.jpg</filename>
+	<path>img010051.jpg</path>
+	<source>
+		<database>Spark.Stream1</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheops</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<ymin>12</ymin>
+			<xmin>128</xmin>
+			<ymax>717</ymax>
+			<xmax>780</xmax>
+		</bndbox>
+	</object>
+</annotation>
