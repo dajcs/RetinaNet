@@ -148,15 +148,13 @@ for i in range(len(test_images)):
                             red, 2)
                 cv2.putText(orig_image,str(j) + '-> ' +  class_name, (xmin, ymin-5), cv2.FONT_HERSHEY_SIMPLEX, 0.8, # color[::-1], 
                             red, 2, lineType=cv2.LINE_AA)
+        # write out image
+        cv2.imwrite(f"inference_outputs/images/{image_name}.jpg", orig_image)
+        # show it if requested
         if args['showimg']:
-            cv2.imwrite(f"inference_outputs/images/{image_name}.jpg", orig_image)
             plt.imshow(cv2.cvtColor(orig_image, cv2.COLOR_BGR2RGB))
             plt.title(f'Prediction {image_name}')
             plt.show()
-            # cv2.imwrite(f"inference_outputs/images/{image_name}.jpg", orig_image)
-            # plt.imshow(orig_image)
-            # plt.title(f'Prediction {image_name}')
-            # plt.show()
                 
         print('scores:', scores[:3])
         print('pred_classes:', pred_classes[:3])

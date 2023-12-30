@@ -3,7 +3,7 @@ __pycache__/
 hist/
 old/
 data/BCCD.v3-raw.voc/
-notebooks/
+notebooks/*
 !notebooks/spark1-convert-annotations-to-pascal-voc-xml.ipynb
 !notebooks/visualizations_spark1.ipynb
 !notebooks/pascal_template.xml
