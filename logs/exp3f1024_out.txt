@@ -1,0 +1,72 @@
+Epoch #1 train loss: 0.089
+Epoch #1 mAP: 0.869464635848999
+Epoch #2 train loss: 0.089
+Epoch #2 mAP: 0.8688184022903442
+Epoch #3 train loss: 0.089
+Epoch #3 mAP: 0.8682565093040466
+Epoch #4 train loss: 0.088
+Epoch #4 mAP: 0.8688383102416992
+Epoch #5 train loss: 0.088
+Epoch #5 mAP: 0.8710811138153076
+Epoch #6 train loss: 0.087
+Epoch #6 mAP: 0.8695815205574036
+Epoch #7 train loss: 0.088
+Epoch #7 mAP: 0.8680816292762756
+Epoch #8 train loss: 0.088
+Epoch #8 mAP: 0.8695508241653442
+Epoch #9 train loss: 0.087
+Epoch #9 mAP: 0.871078610420227
+Epoch #10 train loss: 0.087
+Epoch #10 mAP: 0.8694849014282227
+Epoch #11 train loss: 0.086
+Epoch #11 mAP: 0.8685132265090942
+Epoch #12 train loss: 0.087
+Epoch #12 mAP: 0.8680853247642517
+Epoch #13 train loss: 0.086
+Epoch #13 mAP: 0.867789089679718
+Epoch #14 train loss: 0.086
+Epoch #14 mAP: 0.8675574064254761
+Epoch #15 train loss: 0.086
+Epoch #15 mAP: 0.8686444163322449
+Epoch #16 train loss: 0.086
+Epoch #16 mAP: 0.8688215613365173
+Epoch #17 train loss: 0.086
+Epoch #17 mAP: 0.869935929775238
+Epoch #18 train loss: 0.085
+Epoch #18 mAP: 0.8706488013267517
+Epoch #19 train loss: 0.085
+Epoch #19 mAP: 0.8686890602111816
+Epoch #20 train loss: 0.084
+Epoch #20 mAP: 0.871346116065979
+Epoch #21 train loss: 0.085
+Epoch #21 mAP: 0.8705898523330688
+Epoch #22 train loss: 0.085
+Epoch #22 mAP: 0.8706304430961609
+Epoch #23 train loss: 0.085
+Epoch #23 mAP: 0.8691950440406799
+Epoch #24 train loss: 0.084
+Epoch #24 mAP: 0.8711588978767395
+Epoch #25 train loss: 0.085
+Epoch #25 mAP: 0.8713169097900391
+Epoch #26 train loss: 0.085
+Epoch #26 mAP: 0.8688535690307617
+Epoch #27 train loss: 0.084
+Epoch #27 mAP: 0.8686923980712891
+Epoch #28 train loss: 0.084
+Epoch #28 mAP: 0.8692439198493958
+Epoch #29 train loss: 0.085
+Epoch #29 mAP: 0.8684442043304443
+Epoch #30 train loss: 0.083
+Epoch #30 mAP: 0.8655493855476379
+Epoch #31 train loss: 0.084
+Epoch #31 mAP: 0.8711026906967163
+Epoch #32 train loss: 0.083
+Epoch #32 mAP: 0.870255708694458
+Epoch #33 train loss: 0.086
+Epoch #33 mAP: 0.8670004606246948
+Epoch #34 train loss: 0.084
+Epoch #34 mAP: 0.8689543008804321
+Epoch #35 train loss: 0.084
+Epoch #35 mAP: 0.870103120803833
+Epoch #36 train loss: 0.089
+Epoch #36 mAP: 0.8739116191864014
