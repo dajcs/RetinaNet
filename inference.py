@@ -139,7 +139,7 @@ for i in range(len(test_images)):
                 cv2.putText(orig_image,str(j) + '-> ' + class_name, (xmin, ymin-5), cv2.FONT_HERSHEY_SIMPLEX, 0.8, # color[::-1], 
                             green, 2, lineType=cv2.LINE_AA)
                 break
-            elif j==0:
+            elif j==0:     # highest confidence level
                 wrong_class_preds += 1
                 wrong_pred_imgs.append(image_name + '.jpg')
                 bbox = str([ymin, xmin, ymax, xmax])  # store best score bbox
